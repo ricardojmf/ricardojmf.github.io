@@ -51,42 +51,81 @@
     "skills": [
       {
         "name": "Web Development",
-        "level": "Master",
+        "level": "Master aspirer",
         "keywords": [
           "HTML",
           "CSS",
-          "Javascript"
+          "Javascript",
+          "Angular.js",
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "Hapi.js",
+          "Ruby on Rails"
         ]
       },
       {
-        "name": "Compression",
-        "level": "Master",
+        "name": "Blockchain",
+        "level": "Master aspirer",
         "keywords": [
-          "Mpeg",
-          "MP4",
-          "GIF"
+          "Ethereum",
+          "Tendermint",
+          "Ethermint"
+        ]
+      },
+      {
+        "name": "Microservices",
+        "level": "Master aspirer",
+        "keywords": [
+          "Spring Cloud"
         ]
       }
     ],
     "languages": [
       {
-        "language": "English",
+        "language": "Portuguese",
         "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Fluent speaker and writer"
+      },
+      {
+        "language": "Spanish",
+        "fluency": "Medium speaker"
       }
     ],
     "interests": [
       {
-        "name": "Wildlife",
+        "name": "Music",
         "keywords": [
-          "Ferrets",
-          "Unicorns"
+          "Music Production",
+          "Guitar",
+          "Mandolin"
         ]
-      }
-    ],
-    "references": [
+      },
       {
-        "name": "Erlich Bachman",
-        "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+        "name": "Humanities",
+        "keywords": [
+          "History",
+          "Politics"
+        ]
+      },
+      {
+        "name": "Sports",
+        "keywords": [
+          "Football",
+          "Basketball",
+          "Running",
+          "Gym"
+        ]
+      },
+      {
+        "name": "Travel",
+        "keywords": [
+          "Roadtriping",
+          "Interrail"
+        ]
       }
     ]
   }
