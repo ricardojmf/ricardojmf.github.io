@@ -1,0 +1,24 @@
+{
+  "name": "ricardojmf.github.io",
+  "version": "0.0.1",
+  "description": "Ricardo Figueiredo's resume",
+  "main": "no",
+  "scripts": {
+    "build": "resume export index.html --theme elegant && replace 'http:' 'https:' index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardojmf/ricardojmf.github.io.git"
+  },
+  "author": "Ricardo Figueiredo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardojmf/ricardojmf.github.io/issues"
+  },
+  "homepage": "https://github.com/ricardojmf/ricardojmf.github.io#readme",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.11.2",
+    "replace": "^1.0.0",
+    "resume-cli": "^0.4.19"
+  }
+}
