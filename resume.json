@@ -1,131 +1,179 @@
 {
-    "basics": {
-      "name": "Ricardo Figueiredo",
-      "label": "Junior Developer",
-      "picture": "",
-      "email": "ricardo.jfig@gmail.com",
-      "phone": "(+351) 931490591",
-      "website": "",
-      "summary": "Ricardo is a Software Engineer is from Porto, Portugal. He earned his Master Degree from the University of Porto. His thesis was about “Peer to Peer Insurance over Blockchain” and was made in partnership between Deloitte Consultores S.A. and FEUP – Faculty of Engineering from the University of Porto. He is a very positive minded and proactive person always looking for self improvement! ",
-      "location": {
-        "address": "Rua Quinta de Campainha 236 C 4º Esq.",
-        "postalCode": "4435-406",
-        "city": "Rio Tinto",
-        "countryCode": "PT",
-        "region": "Portugal"
-      },
-      "profiles": []
+  "basics": {
+    "name": "Ricardo Figueiredo",
+    "label": "Junior Developer",
+    "picture": "images/profile-picture.jfif",
+    "email": "ricardo.jfig@gmail.com",
+    "phone": "(+351) 931490591",
+    "website": "",
+    "summary": "Ricardo is a Software Engineer from Porto, Portugal. He earned his Master Degree from the University of Porto. His thesis was about “Peer to Peer Insurance over Blockchain” and was made in partnership between Deloitte Consultores S.A. and FEUP – Faculty of Engineering from the University of Porto. He is a very positive minded and proactive person always looking for self improvement!",
+    "location": {
+      "address": "Rua Quinta de Campainha 236 C 4º Esq.",
+      "postalCode": "4435-406",
+      "city": "Rio Tinto",
+      "countryCode": "PT",
+      "region": "Portugal"
     },
-    "work": [
+    "profiles": [
       {
-        "company": "Deloitte Digital",
-        "position": "Professional Internship - Analyst",
-        "website": "",
-        "startDate": "2016-09-01",
-        "endDate": "2017-04-01",
-        "summary": "",
-        "highlights": []
+        "network": "Linkdin",
+        "username": "Ricardo Figueiredo",
+        "url": "https://www.linkedin.com/in/ricardo-figueiredo-384483120/"
       },
       {
-        "company": "Deloitte Digital",
-        "position": "Analyst",
-        "website": "",
-        "startDate": "2017-05-01",
-        "endDate": "2018-01-01",
-        "summary": "",
-        "highlights": []
-      },
-      {
-        "company": "Deloitte Digital",
-        "position": "Junior Developer",
-        "website": "",
-        "startDate": "2018-01-01",
-        "summary": "",
-        "highlights": []
-      }
-    ],
-    "volunteer": [],
-    "education": [],
-    "awards": [],
-    "publications": [],
-    "skills": [
-      {
-        "name": "Web Development",
-        "level": "Master aspirer",
-        "keywords": [
-          "HTML",
-          "CSS",
-          "Javascript",
-          "Angular.js",
-          "React.js",
-          "Node.js",
-          "Express.js",
-          "Hapi.js",
-          "Ruby on Rails"
-        ]
-      },
-      {
-        "name": "Blockchain",
-        "level": "Master aspirer",
-        "keywords": [
-          "Ethereum",
-          "Tendermint",
-          "Ethermint"
-        ]
-      },
-      {
-        "name": "Microservices",
-        "level": "Master aspirer",
-        "keywords": [
-          "Spring Cloud"
-        ]
-      }
-    ],
-    "languages": [
-      {
-        "language": "Portuguese",
-        "fluency": "Native speaker"
-      },
-      {
-        "language": "English",
-        "fluency": "Fluent speaker and writer"
-      },
-      {
-        "language": "Spanish",
-        "fluency": "Medium speaker"
-      }
-    ],
-    "interests": [
-      {
-        "name": "Music",
-        "keywords": [
-          "Music Production",
-          "Guitar",
-          "Mandolin"
-        ]
-      },
-      {
-        "name": "Humanities",
-        "keywords": [
-          "History",
-          "Politics"
-        ]
-      },
-      {
-        "name": "Sports",
-        "keywords": [
-          "Football",
-          "Basketball",
-          "Running",
-          "Gym"
-        ]
-      },
-      {
-        "name": "Travel",
-        "keywords": [
-          "Roadtriping",
-          "Interrail"
-        ]
+        "network": "Facebook",
+        "username": "",
+        "url": "https://www.facebook.com/rjmf1993"
       }
     ]
-  }
+  },
+  "work": [
+    {
+      "company": "Deloitte Digital",
+      "position": "Professional Internship - Analyst",
+      "website": "",
+      "startDate": "2016-09-01",
+      "endDate": "2017-04-01",
+      "summary": "",
+      "highlights": [
+        "Master Thesis Development - \"Peer to Peer Insurance over Blockchain\". Contact with blockchain frameworks like Ethereum and Ethermint. Smart Contracts development using  Solidity language"
+      ]
+    },
+    {
+      "company": "Deloitte Digital",
+      "position": "Analyst",
+      "website": "",
+      "startDate": "2017-05-01",
+      "endDate": "2018-01-01",
+      "summary": "",
+      "highlights": [
+        "Frontend development of Service Portal pages. Day to day contact with Service Now and Angular.js technologies."
+      ]
+    },
+    {
+      "company": "Deloitte Digital",
+      "position": "Junior Developer",
+      "website": "",
+      "startDate": "2018-01-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "United Arab Emirates insurance transformation project. Microservices development using Spring Cloud and Fronend development using React.js."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Associação de Estudantes da Universidade do Porto",
+      "position": "Markting staff",
+      "website": "",
+      "startDate": "2012-05-01",
+      "endDate": "2015-05-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Associação Tuna de Engenharia da Universidade do Porto",
+      "position": "President",
+      "website": "",
+      "startDate": "2016-01-01",
+      "endDate": "2017-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Faculdade de Engenharia da Universidade do Porto",
+      "area": "Informatics and Computing Engineering",
+      "studyType": "Integrated Master's degree",
+      "startDate": "2011-09-01",
+      "endDate": "2017-07-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master aspirer",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Angular.js",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "Hapi.js",
+        "Ruby on Rails"
+      ]
+    },
+    {
+      "name": "Blockchain",
+      "level": "Master aspirer",
+      "keywords": [
+        "Ethereum",
+        "Tendermint",
+        "Ethermint"
+      ]
+    },
+    {
+      "name": "Microservices",
+      "level": "Master aspirer",
+      "keywords": [
+        "Spring Cloud"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent speaker and writer"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Medium speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Music Production",
+        "Guitar",
+        "Mandolin"
+      ]
+    },
+    {
+      "name": "Humanities",
+      "keywords": [
+        "History",
+        "Politics"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Football",
+        "Basketball",
+        "Running",
+        "Gym"
+      ]
+    },
+    {
+      "name": "Travel",
+      "keywords": [
+        "Roadtriping",
+        "Interrail"
+      ]
+    }
+  ],
+  "references": []
+}
