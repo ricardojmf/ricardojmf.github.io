@@ -4,7 +4,7 @@
   "description": "Ricardo Figueiredo's resume",
   "main": "no",
   "scripts": {
-    "build": "resume export index.html --theme classy && replace 'http:' 'https:' index.html",
+    "build": "resume export index.html --theme elegant && replace 'http:' 'https:' index.html",
     "pdf": "resume export resume --format pdf --theme classy"
   },
   "repository": {
