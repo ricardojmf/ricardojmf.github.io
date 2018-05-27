@@ -6,7 +6,7 @@
     "email": "ricardo.jfig@gmail.com",
     "phone": "(+351) 931490591",
     "website": "",
-    "summary": "Ricardo is a Software Engineer from Porto, Portugal. He earned his Master Degree from the University of Porto. His thesis was about “Peer to Peer Insurance over Blockchain” and was made in partnership between Deloitte Consultores S.A. and FEUP – Faculty of Engineering from the University of Porto. He is a very positive minded and proactive person always looking for self improvement!",
+    "summary": "I am a Software Engineer from Porto, Portugal. I'm interested in Software Development, and i see it as the a major way to contribute to society and to solve problems. I also enjoy traveling, sports and history and I am passionate about music. I am a very positive minded and proactive person always looking for self improvement!",
     "location": {
       "address": "Rua Quinta de Campainha 236 C 4º Esq.",
       "postalCode": "4435-406",
@@ -30,13 +30,13 @@
   "work": [
     {
       "company": "Deloitte Digital",
-      "position": "Professional Internship - Analyst",
+      "position": "Junior Developer",
       "website": "",
-      "startDate": "2016-09-01",
-      "endDate": "2017-04-01",
+      "startDate": "2018-01-01",
+      "endDate": "",
       "summary": "",
       "highlights": [
-        "Master Thesis Development - \"Peer to Peer Insurance over Blockchain\". Contact with blockchain frameworks like Ethereum and Ethermint. Smart Contracts development using  Solidity language"
+        "United Arab Emirates insurance transformation project. Microservices development using Spring Cloud and Fronend development using React.js."
       ]
     },
     {
@@ -52,15 +52,15 @@
     },
     {
       "company": "Deloitte Digital",
-      "position": "Junior Developer",
+      "position": "Professional Internship - Analyst",
       "website": "",
-      "startDate": "2018-01-01",
-      "endDate": "",
+      "startDate": "2016-09-01",
+      "endDate": "2017-04-01",
       "summary": "",
       "highlights": [
-        "United Arab Emirates insurance transformation project. Microservices development using Spring Cloud and Fronend development using React.js."
+        "Master Thesis Development - \"Peer to Peer Insurance over Blockchain\". Contact with blockchain frameworks like Ethereum and Ethermint. Smart Contracts development using  Solidity language"
       ]
-    }
+    }    
   ],
   "volunteer": [
     {
@@ -106,8 +106,6 @@
         "Angular.js",
         "React.js",
         "Node.js",
-        "Express.js",
-        "Hapi.js",
         "Ruby on Rails"
       ]
     },
