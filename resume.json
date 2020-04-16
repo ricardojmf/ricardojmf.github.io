@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ricardo Figueiredo",
-    "label": "Junior Developer",
+    "label": "Software Engineer",
     "picture": "images/profile-picture.jpg",
     "email": "ricardo.jfig@gmail.com",
     "phone": "(+351) 931490591",
@@ -89,7 +89,7 @@
   "volunteer": [
     {
       "organization": "Associação de Estudantes da Universidade do Porto",
-      "position": "Markting staff",
+      "position": "Marketing staff",
       "website": "",
       "startDate": "2012-05-01",
       "endDate": "2015-05-01",
