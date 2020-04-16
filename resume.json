@@ -29,11 +29,35 @@
   },
   "work": [
     {
+      "company": "Talkdesk",
+      "position": "Software Engineer II",
+      "website": "https://www.talkdesk.com/",
+      "startDate": "2018-04-01",
+      "summary": "",
+      "highlights": [
+        "Development of an admin routing configuration platform called Studio.",
+        "React.js, Redux, Redux-Saga, SVG, REST, Spring-microservices(ocassionaly)"
+      ]
+    },
+    {
+      "company": "Talkdesk",
+      "position": "Software Engineer I",
+      "website": "https://www.talkdesk.com/",
+      "startDate": "2018-08-01",
+      "endDate": "2020-04-01",
+      "summary": "",
+      "highlights": [
+        "Development of a call center agent application called Callbar.",
+        "Development of an call center admin routing configuration platform called Studio.",
+        "React.js, Redux, Redux-Saga, SVG, REST, Spring-microservices(ocassionaly)"
+      ]
+    },
+    {
       "company": "Deloitte Digital",
       "position": "Junior Developer",
-      "website": "",
+      "website": "https://www2.deloitte.com/tr/en/pages/technology/solutions/deloitte-digital.html",
       "startDate": "2018-01-01",
-      "endDate": "",
+      "endDate": "2018-07-01",
       "summary": "",
       "highlights": [
         "United Arab Emirates insurance transformation project. Microservices development using Spring Cloud and Frontend development using React.js."
@@ -42,7 +66,7 @@
     {
       "company": "Deloitte Digital",
       "position": "Analyst",
-      "website": "",
+      "website": "https://www2.deloitte.com/tr/en/pages/technology/solutions/deloitte-digital.html",
       "startDate": "2017-05-01",
       "endDate": "2018-01-01",
       "summary": "",
@@ -53,7 +77,7 @@
     {
       "company": "Deloitte Digital",
       "position": "Professional Internship - Analyst",
-      "website": "",
+      "website": "https://www2.deloitte.com/tr/en/pages/technology/solutions/deloitte-digital.html",
       "startDate": "2016-09-01",
       "endDate": "2017-04-01",
       "summary": "",
@@ -96,15 +120,15 @@
   "skills": [
     {
       "name": "Web Development",
-      "level": "Master aspirer",
+      "level": "Master",
       "keywords": [
         "HTML",
         "CSS",
         "Javascript",
-        "Angular.js",
         "React.js",
-        "Node.js",
-        "Ruby on Rails"
+        "React-Redux",
+        "Redux-Saga",
+        "Node.js"
       ]
     },
     {
