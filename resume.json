@@ -29,11 +29,36 @@
   },
   "work": [
     {
+      "company": "Talkdesk",
+      "position": "Software Engineer II",
+      "website": "",
+      "startDate": "2018-04-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Development of an admin routing configuration platform called Studio.",
+        "React.js, Redux, Redux-Saga, SVG, REST, Spring-microservices(ocassionaly)"
+      ]
+    },
+    {
+      "company": "Talkdesk",
+      "position": "Software Engineer I",
+      "website": "",
+      "startDate": "2018-08-01",
+      "endDate": "2020-04-01",
+      "summary": "",
+      "highlights": [
+        "Development of a callcenter agent application called Callbar.",
+        "Development of an admin routing configuration platform called Studio.",
+        "React.js, Redux, Redux-Saga, SVG, REST, Spring-microservices(ocassionaly)"
+      ]
+    },
+    {
       "company": "Deloitte Digital",
       "position": "Junior Developer",
       "website": "",
       "startDate": "2018-01-01",
-      "endDate": "",
+      "endDate": "2018-07-01",
       "summary": "",
       "highlights": [
         "United Arab Emirates insurance transformation project. Microservices development using Spring Cloud and Frontend development using React.js."
@@ -101,8 +126,9 @@
         "HTML",
         "CSS",
         "Javascript",
-        "Angular.js",
         "React.js",
+        "React-Redux",
+        "Redux-Saga",
         "Node.js",
         "Ruby on Rails"
       ]
