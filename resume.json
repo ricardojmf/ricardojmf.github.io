@@ -8,9 +8,9 @@
     "website": "",
     "summary": "I am a Software Engineer from Porto, Portugal. I'm interested in Software Development, and I see it as a major way to contribute to society and to make it more efficient. I also enjoy traveling, sports, history and I am passionate about music. I am a very positive minded and proactive person always looking for self improvement!",
     "location": {
-      "address": "Rua Quinta de Campainha 236 C 4º Esq.",
-      "postalCode": "4435-406",
-      "city": "Rio Tinto",
+      "address": "Avenida Doutor Germano Vieira 1092 2ºR",
+      "postalCode": "4470-185",
+      "city": "Maia",
       "countryCode": "PT",
       "region": "Portugal"
     },
@@ -19,36 +19,47 @@
         "network": "Linkedin",
         "username": "Ricardo Figueiredo",
         "url": "https://www.linkedin.com/in/ricardo-figueiredo-384483120/"
-      },
-      {
-        "network": "Facebook",
-        "username": "",
-        "url": "https://www.facebook.com/rjmf1993"
       }
     ]
   },
   "work": [
     {
-      "company": "Talkdesk",
-      "position": "Software Engineer II",
-      "website": "https://www.talkdesk.com/",
-      "startDate": "2018-04-01",
+      "company": "Farfetch (FPS)",
+      "position": "Software Engineer",
+      "website": "https://aboutfarfetch.com/about/farfetch-platform-solutions/",
+      "startDate": "2021-06-21",
       "summary": "",
       "highlights": [
-        "Development of an admin routing configuration platform called Studio.",
-        "React.js, Redux, Redux-Saga, SVG, REST, Spring-microservices(ocassionaly)"
+        "Work on whitelabel engineering products",
+        "Ecommerce React/Redux API development",
+        "Open-Source project maintainer"
+      ]
+    },
+    {
+      "company": "Kununu",
+      "position": "FrontEnd Engineer",
+      "website": "https://www.kununu.com/",
+      "startDate": "2020-09-01",
+      "endDate": "2021-06-01",
+      "summary": "",
+      "highlights": [
+        "Development of a full platform rebranding",
+        "Development of a centralized components library (React.js components)",
+        "React.js, Redux-Thunk, REST, Express.js, CSS, RTL"
       ]
     },
     {
       "company": "Talkdesk",
-      "position": "Software Engineer I",
+      "position": "Software Engineer I, II",
       "website": "https://www.talkdesk.com/",
       "startDate": "2018-08-01",
-      "endDate": "2020-04-01",
+      "endDate": "2020-08-01",
       "summary": "",
       "highlights": [
         "Development of a call center agent application called Callbar.",
         "Development of an call center admin routing configuration platform called Studio.",
+        "React.js, Redux, Redux-Saga, SVG, REST, Spring-microservices(ocassionaly)",
+        "Development of an admin routing configuration platform called Studio.",
         "React.js, Redux, Redux-Saga, SVG, REST, Spring-microservices(ocassionaly)"
       ]
     },
@@ -128,23 +139,12 @@
         "React.js",
         "React-Redux",
         "Redux-Saga",
-        "Node.js"
-      ]
-    },
-    {
-      "name": "Blockchain",
-      "level": "Master aspirer",
-      "keywords": [
-        "Ethereum",
-        "Tendermint",
-        "Ethermint"
-      ]
-    },
-    {
-      "name": "Microservices",
-      "level": "Master aspirer",
-      "keywords": [
-        "Spring Cloud"
+        "Node.js",
+        "Enzyme",
+        "Hooks",
+        "Next.js",
+        "React Thunk",
+        "Open Source Web Development"
       ]
     }
   ],

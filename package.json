@@ -19,9 +19,9 @@
   "homepage": "https://github.com/ricardojmf/ricardojmf.github.io#readme",
   "dependencies": {
     "jsonresume-theme-classy": "^1.0.9",
-    "jsonresume-theme-elegant": "^1.11.2",
+    "jsonresume-theme-elegant": "^1.7.11",
     "jsonresume-theme-elegant_fork": "0.0.5",
     "replace": "^1.0.0",
-    "resume-cli": "^0.4.19"
+    "resume-cli": "^3.0.5"
   }
 }
